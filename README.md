@@ -1,5 +1,5 @@
 <div align="center">
-[이름]
+[김동건]
 AI · Software Engineering Student
 
 AISW 계열을 전공하며
