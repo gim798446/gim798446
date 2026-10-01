@@ -1,28 +1,28 @@
-Hello, I'm [이름]
+[이름]
+AI · Software Engineering Student
 
-AI · Software를 공부하고 있는 학생입니다.
-새로운 기술을 배우고 직접 구현하며 경험을 쌓고 있습니다.
+AISW 계열을 전공하며
+AI와 Software Engineering을 공부하고 있습니다.
 
-About Me
+관심 있는 기술을 직접 구현하고,
+프로젝트를 통해 배우며 성장하고 있습니다.
 
-AISW 계열 전공
+Interests
 
-관심 분야: AI, Machine Learning, Software Development
-
-현재 공부하고 있는 것: 관심 분야
-
-진행 중인 프로젝트: 프로젝트 이름
-
-기술을 배우고 직접 만들어보는 과정을 좋아합니다.
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Software Engineering
 
 Tech Stack
+
 Languages
 
 
 
 
 
-AI / Data
+AI / ML
 
 
 
@@ -32,41 +32,22 @@ Tools
 
 
 
-
 Projects
-[프로젝트 이름]
+[Project Name]
+
+프로젝트를 한 문장으로 설명합니다.
 
 Python AI PyTorch
 
-프로젝트를 한 줄로 설명합니다.
+View Repository
 
-프로젝트 목적
+[Project Name]
 
-주요 기능
+프로젝트를 한 문장으로 설명합니다.
 
-담당한 부분
+Java Backend
 
-사용한 기술
-
-프로젝트를 통해 배운 점
-
-[Repository](프로젝트 링크)
-
-[프로젝트 이름]
-
-JavaScript Web
-
-프로젝트를 한 줄로 설명합니다.
-
-프로젝트 목적
-
-주요 기능
-
-담당한 부분
-
-사용한 기술
-
-[Repository](프로젝트 링크)
+View Repository
 
 Currently Learning
 
@@ -74,20 +55,12 @@ Machine Learning
 
 Deep Learning
 
-Python
-
 Software Engineering
 
-현재 공부 중인 기술
+현재 공부하고 있는 기술
 
-GitHub Stats
+GitHub
 
 Contact
 
-Email: your-email@example.com
-
-Blog: 블로그 링크
-
-LinkedIn: LinkedIn 링크
-
-Learn, Build, Share.
+Email · Blog
